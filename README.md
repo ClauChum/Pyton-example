@@ -1,2 +1,2 @@
-# Pyton-example
- Programa para reforzar el uso de github
+# Ejemplo de programa en Pyton
+ Programa en **python** para reforzar el uso de **github**
